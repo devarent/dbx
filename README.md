@@ -1,3 +1,26 @@
+
+<!-- dbx-style-kit -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/dbx-1f6feb?style=for-the-badge" alt="dbx" />
+<img src="https://img.shields.io/badge/LANG%20Rust-3178c6?style=for-the-badge" alt="LANG Rust" />
+<img src="https://img.shields.io/badge/STARS%201-eab308?style=for-the-badge" alt="STARS 1" />
+<img src="https://img.shields.io/badge/LICENSE%20Apache-2.0-22c55e?style=for-the-badge" alt="LICENSE Apache-2.0" />
+
+<br>
+
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-yes-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="OPEN SOURCE" />
+<img src="https://img.shields.io/badge/BUILT%20IN%20PUBLIC-true-6366f1?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="BUILT IN PUBLIC" />
+<img src="https://img.shields.io/badge/HANDS%20ON%20LABS-52-0ea5e9?style=for-the-badge&logo=docker&logoColor=white" alt="HANDS ON LABS" />
+<img src="https://img.shields.io/badge/DOCUMENTED-yes-14b8a6?style=for-the-badge&logo=markdown&logoColor=white" alt="DOCUMENTED" />
+
+<br>
+
+<b>Lightweight cross-platform database client supporting MySQL, PostgreSQL, SQLite, Redis, MongoDB, and more.</b>
+
+</div>
+
+---
 <div align="center">
   <p style="font-size: 18px; white-space: nowrap;"><strong>100+ databases in 25 MB. Desktop, Docker, CLI, built-in AI assistant, and MCP Server.</strong></p>
 
