@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# dbx
+
+<sub>Lightweight cross-platform database client supporting MySQL, PostgreSQL, SQLite, Redis, MongoDB, and more.</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | dbx |
+| Primary language | Rust |
+| Topics | ai, cli, clickhouse, database, database-client, database-management, desktop-app, docker, gui, mcp, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue |
+| License | Apache-2.0 |
+| Branch | main |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+dbx is a hands-on repository focused on: Lightweight cross-platform database client supporting MySQL, PostgreSQL, SQLite, Redis, MongoDB, and more.. Primary language: Rust. Topics: ai, cli, clickhouse, database, database-client, database-management, desktop-app, docker, gui, mcp, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue. The README below documents the project; use the table above for a quick overview.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 
